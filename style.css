@@ -1,0 +1,16 @@
+div{
+    background-color: #eabc80b2;
+    border: 5px solid rgba(47, 47, 47, 0.961);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px 5px 10px 5px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 900;
+   line-height: 30px;
+   font-style: italic;
+   max-width: 300px;
+}
+ul{
+   list-style-type: none;
+}
